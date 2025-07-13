@@ -238,26 +238,26 @@ sections:
         url: https://github.com/MattTheTekie
         icon: fab fa-github-alt
         id: 0_2073_github
-      - title: Blog
+      - title: Personal Blog
         description: Welcome to my blog.
         provider: Dashy.to
         icon: far fa-book
-        url: https://test72.eu.org/blog/
+        url: https://home.venith.net/blog/
         id: 1_2073_docs
-      - title: CrazyHellTechnologies!
+      - title: VENITH Blog
         description: Welcome to the HQ!
-        url: https://cht.venith.net
+        url: https://venith.net/blog.html
         icon: si-nintendo3ds
         id: 2_2073_showcase
-      - title: N3RDP0RT4L-HQ!
-        description: Welcome!
-        url: https://n3rdp0rt4l-hq.gitlab.io/n3rdp0rt4l/
+      - title: The VENITH Network
+        description: Welcome to VENITH!
+        url: https://www.venith.net
         icon: si-apple
         id: 3_2073_configdocs
       - title: DCTheGamr
-        description: DCTheGamr
+        description: DigitalCheese
         icon: si-prometheus
-        url: https://dc-blog.neocities.org/
+        url: https://dc.venith.net/
         target: newtab
         id: 4_2073_demo
       - title: CourvixNetwork
